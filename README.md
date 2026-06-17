@@ -1,8 +1,8 @@
-# Abdirahman Farah
+# abdixf
 
 **BSc Computer Security (2:1) | AI Systems & Threat Modeling Engineer**
 
-I am a 20-year-old security engineer with a First Class dissertation in AI-powered threat modeling and hands-on experience architecting privacy-preserving systems. I'm passionate about building security into architecture, not bolting it on—and about making AI systems resilient and trustworthy.
+I am a 20-year-old security engineer with a First Class (4.0) dissertation in AI-powered threat modeling and hands-on experience architecting privacy-preserving systems. I'm passionate about building security into architecture, not bolting it on—and about making AI systems resilient and trustworthy.
 
 ## Objective
 
@@ -47,7 +47,6 @@ To contribute to organizations building secure, privacy-first systems at scale. 
 
 - **BSc Computer Security** – Liverpool John Moores University (2:1, 3.4 GPA) | May 2026
 - **First Class Dissertation** – Sentinel Guard | Grade: 4.0 GPA
-- A-level Equivalent: Physics, Biology, Chemistry
 
 ---
 
@@ -93,10 +92,10 @@ A fully offline, privacy-preserving web application deploying a quantized Qwen2.
 
 ---
 
-## Let's Connect
+## Contact Information
 
 **Email:** abdifarxh@gmail.com  
-**LinkedIn:** linkedin.com/in/abdirahman-farah  
+**LinkedIn:** **LinkedIn:** [linkedin.com/in/abdirahman-farah](https://linkedin.com/in/farah27k)
 **Location:** Liverpool, UK
 
 Open to conversations about security engineering, AI safety, and building systems that protect users.
