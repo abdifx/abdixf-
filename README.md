@@ -4,7 +4,7 @@
 
 I am a 20-year-old security engineer with a First Class (4.0) dissertation in AI-powered threat modeling and hands-on experience architecting privacy-preserving systems. I'm passionate about building security into architecture, not bolting it on—and about making AI systems resilient and trustworthy.
 
-**LinkedIn:** <a href="https://linkedin.com/farah27k"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/farah27k"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ## Objective
 
 To contribute to organizations building secure, privacy-first systems at scale. Currently focused on cloud security, threat modeling, and AI safety—seeking roles where security architecture and engineering excellence intersect.
