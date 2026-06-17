@@ -3,7 +3,7 @@
 **BSc Computer Security (2:1) | AI Systems & Threat Modeling Engineer**
 
 I am a 20-year-old security engineer with a First Class (4.0) dissertation in AI-powered threat modeling and hands-on experience architecting privacy-preserving systems. I'm passionate about building security into architecture, not bolting it on—and about making AI systems resilient and trustworthy.
-
+**LinkedIn:** <a href="https://linkedin.com/farah27k"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ## Objective
 
 To contribute to organizations building secure, privacy-first systems at scale. Currently focused on cloud security, threat modeling, and AI safety—seeking roles where security architecture and engineering excellence intersect.
@@ -95,7 +95,6 @@ A fully offline, privacy-preserving web application deploying a quantized Qwen2.
 ## Contact Information
 
 **Email:** abdifarxh@gmail.com  
-**LinkedIn:** **LinkedIn:** <a href="https://linkedin.com/farah27k"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 **Location:** Liverpool, UK
 
 Open to conversations about security engineering, AI safety, and building systems that protect users.
