@@ -95,7 +95,7 @@ A fully offline, privacy-preserving web application deploying a quantized Qwen2.
 ## Contact Information
 
 **Email:** abdifarxh@gmail.com  
-**LinkedIn:** **LinkedIn:** [linkedin.com/in/abdirahman-farah](https://linkedin.com/in/farah27k)
+**LinkedIn:** **LinkedIn:** <a href="https://linkedin.com/farah27k"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 **Location:** Liverpool, UK
 
 Open to conversations about security engineering, AI safety, and building systems that protect users.
