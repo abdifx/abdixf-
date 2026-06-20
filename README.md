@@ -22,7 +22,7 @@
 ```yaml
 name:        Farah
 focus:       building things that protect and grow online businesses
-current:     FarahDos — geolocation-based DDoS mitigation for nftables
+current:     currently looking into getting certs
 toolbox:     firewalls, Shopify stores, ad funnels, AI workflows
 mindset:     ship → measure → improve
 ```
